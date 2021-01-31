@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .col-4{
+        width: 100%;
+    }
+    .cat-item{
+        margin-bottom: 30px;
+    }
+    .cat-item-info{
+        padding: 15px;
+    }
+}
